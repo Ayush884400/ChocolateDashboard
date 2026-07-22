@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="chocolate-dashboard.png" alt="Chocolate Dashboard Preview" width="800">
+  <img src="Screenshot 2026-06-29 140855.png" alt="Chocolate Dashboard Preview" width="800">
 </div>
 
 <br>
@@ -19,6 +19,14 @@ This dashboard was created using Power BI to explore chocolate sales data and pr
 
 The project demonstrates data cleaning, data modelling, DAX calculations, and interactive visualisation techniques to transform raw sales data into meaningful business insights.
 </p>
+
+<div align="center">
+  <img src="Screenshot 2026-06-29 141429.pn.png" alt="Chocolate Dashboard Preview" width="800">
+</div>
+
+<div align="center">
+  <img src="Screenshot 2026-06-29 141811.png" alt="Chocolate Dashboard Preview" width="800">
+</div>
 
 <h2>🔗 View Dashboard</h2>
 
