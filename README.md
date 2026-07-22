@@ -21,7 +21,7 @@ The project demonstrates data cleaning, data modelling, DAX calculations, and in
 </p>
 
 <div align="center">
-  <img src="Screenshot 2026-06-29 141429.pn.png" alt="Chocolate Dashboard Preview" width="800">
+  <img src="Screenshot 2026-06-29 141429.png" alt="Chocolate Dashboard Preview" width="800">
 </div>
 
 <div align="center">
