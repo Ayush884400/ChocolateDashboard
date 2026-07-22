@@ -36,6 +36,8 @@ The project demonstrates data cleaning, data modelling, DAX calculations, and in
   </a>
 </p>
 
+<a href="https://app.powerbi.com/links/jduq1eqUGe?ctid=1e341d11-1ce0-4d09-a2a5-22aeaa3eea2a&pbi_source=linkShare">Download Project</a>
+
 <h2>🛠️ Tools Used</h2>
 
 <ul>
