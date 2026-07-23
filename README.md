@@ -28,6 +28,13 @@ The project demonstrates data cleaning, data modelling, DAX calculations, and in
   <img src="Screenshot 2026-06-29 141811.png" alt="Chocolate Dashboard Preview" width="800">
 </div>
 
+<h2>Dax</h2>
+<p>
+  I have encoruged many Dax commands into this projet. Dax is a useful data anaylysis tools that allows us to perform calaulation on the data and use them as metrics for making further analysis to the data. 
+
+  I have demonstrated the use of Dax in this project by suming up costs and and retial costs within this project. 
+</p>
+
 <h2>🔗 View Dashboard</h2>
 
 <p>
